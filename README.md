@@ -32,3 +32,12 @@ Every file starts with a header comment:
 I solve problems in a Visual Studio practice project (`main.cpp`). After a submission is accepted,
 `save_solution.bat` reads the header, copies the code into the right folder with the right name,
 commits it, and pushes it to this repo.
+
+<!-- CPSAVER:STATS:START -->
+## Progress
+
+**0** problems solved  (last updated 2026-11-23)
+
+Browse: [by platform](Index/BY_PLATFORM.md) | [by topic](Index/BY_TOPIC.md) | [by difficulty](Index/BY_DIFFICULTY.md)
+
+<!-- CPSAVER:STATS:END -->
