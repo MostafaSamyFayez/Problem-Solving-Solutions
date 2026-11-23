@@ -3,7 +3,7 @@
  * Problem Link: https://www.hackerrank.com/contests/rait-a-thon/challenges/array-left-rotation/problem
  * Platform: HackerRank
  * Difficulty:
- * Topics:
+ * Topics: Stl
  * Date Solved: 2026-11-23
  * Notes: submited on vjudge
  */

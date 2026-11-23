@@ -10,4 +10,4 @@ Numbers are Codeforces-style ratings; Easy/Medium/Hard come from LeetCode or you
 
 | Problem | Platform | Difficulty | Topics | Solution | Solved |
 |---|---|---|---|---|---|
-| [Left Rotation](https://www.hackerrank.com/contests/rait-a-thon/challenges/array-left-rotation/problem) | HackerRank |  |  | [Left_Rotation.cpp](../HackerRank/Left_Rotation.cpp) | 2026-11-23 |
+| [Left Rotation](https://www.hackerrank.com/contests/rait-a-thon/challenges/array-left-rotation/problem) | HackerRank |  | stl | [Left_Rotation.cpp](../HackerRank/Left_Rotation.cpp) | 2026-11-23 |
