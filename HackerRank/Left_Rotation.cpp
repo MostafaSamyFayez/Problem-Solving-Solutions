@@ -29,10 +29,10 @@ int main() {
     }
     for (int i = r; i < n; i++)
     {
-        cout << v[i]<<" ";
+        cout << v[i] << " ";
     }
     for (int i = 0; i < r; i++)
     {
-        cout << v[i]<<" ";
+        cout << v[i] << " ";
     }
 }
