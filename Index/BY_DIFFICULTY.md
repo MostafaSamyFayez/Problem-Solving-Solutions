@@ -4,3 +4,10 @@
 
 Numbers are Codeforces-style ratings; Easy/Medium/Hard come from LeetCode or your own header.
 
+- [Unrated](#unrated) (1)
+
+## Unrated
+
+| Problem | Platform | Difficulty | Topics | Solution | Solved |
+|---|---|---|---|---|---|
+| [Left Rotation](https://www.hackerrank.com/contests/rait-a-thon/challenges/array-left-rotation/problem) | HackerRank |  |  | [Left_Rotation.cpp](../HackerRank/Left_Rotation.cpp) | 2026-11-23 |

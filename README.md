@@ -46,8 +46,17 @@ section below and the indexes, then commits and pushes.
 <!-- CPSAVER:STATS:START -->
 ## Progress
 
-**0** problems solved  (last updated 2026-11-23)
+**1** problems solved  (last updated 2026-11-23)
 
 Browse: [by platform](Index/BY_PLATFORM.md) | [by topic](Index/BY_TOPIC.md) | [by difficulty](Index/BY_DIFFICULTY.md)
 
+| Platform | Solved |
+|---|---|
+| HackerRank | 1 |
+
+### Recently solved
+
+| Problem | Platform | Difficulty | Topics | Solution | Solved |
+|---|---|---|---|---|---|
+| [Left Rotation](https://www.hackerrank.com/contests/rait-a-thon/challenges/array-left-rotation/problem) | HackerRank |  |  | [Left_Rotation.cpp](HackerRank/Left_Rotation.cpp) | 2026-11-23 |
 <!-- CPSAVER:STATS:END -->
