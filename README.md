@@ -1,37 +1,47 @@
 # Problem Solving Solutions
 
-My accepted solutions to competitive programming problems, written in C++.
+My accepted competitive programming solutions, written in C++.
 
 ## Structure
 
-| Folder        | Platform                                   |
-|---------------|--------------------------------------------|
-| `Codeforces/` | [Codeforces](https://codeforces.com)       |
-| `AtCoder/`    | [AtCoder](https://atcoder.jp)              |
-| `LeetCode/`   | [LeetCode](https://leetcode.com)           |
+Solutions are stored in one folder per platform:
+
+| Folder        | Platform                                       |
+|---------------|------------------------------------------------|
+| `Codeforces/` | [Codeforces](https://codeforces.com)           |
+| `AtCoder/`    | [AtCoder](https://atcoder.jp)                  |
+| `LeetCode/`   | [LeetCode](https://leetcode.com)               |
 | `CSES/`       | [CSES Problem Set](https://cses.fi/problemset) |
-| `Other/`      | Any other judge                            |
+| `Other/`      | Any other judge                                |
 
-Folders for other judges (SPOJ, VJudge, HackerRank) are created automatically the first time a solution from them is saved.
+Folders for other judges (CodeChef, SPOJ, Kattis, VJudge, ...) are created automatically.
 
-**File naming:** `<ProblemID>_<Problem_Name>.cpp` — for example `Codeforces/4A_Watermelon.cpp`.
-When a platform has no short ID (e.g. LeetCode), the file is just `<Problem_Name>.cpp`.
+**Browse by topic or difficulty:** [Index/BY_TOPIC.md](Index/BY_TOPIC.md) · [Index/BY_DIFFICULTY.md](Index/BY_DIFFICULTY.md) · [Index/BY_PLATFORM.md](Index/BY_PLATFORM.md)
 
-Every file starts with a header comment:
+**File naming:** `<ProblemID>_<Problem_Name>.cpp`, for example `Codeforces/4A_Watermelon.cpp`
+or `LeetCode/0001_Two_Sum.cpp`.
+
+Every file starts with a header:
 
 ```cpp
 /*
  * Problem Name: Watermelon
  * Problem Link: https://codeforces.com/problemset/problem/4/A
- * Notes: math, brute force
+ * Platform: Codeforces
+ * Problem ID: 4A
+ * Difficulty: 800
+ * Topics: math, brute force
+ * Date Solved: 2026-11-23
+ * Notes: ...
  */
 ```
 
 ## How solutions get here
 
-I solve problems in a Visual Studio practice project (`main.cpp`). After a submission is accepted,
-`save_solution.bat` reads the header, copies the code into the right folder with the right name,
-commits it, and pushes it to this repo.
+I solve problems in a Visual Studio practice project. When a submission is accepted,
+[CP Solution Saver](https://github.com/MostafaSamyFayez/CP-Solution-Saver) reads the header,
+looks the problem up (name, rating, tags), saves the file here, updates the progress
+section below and the indexes, then commits and pushes.
 
 <!-- CPSAVER:STATS:START -->
 ## Progress
