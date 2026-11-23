@@ -23,9 +23,11 @@ int main() {
     vector<int>v;
     for (int i = 0; i < n; i++)
     {
+
         int x;
         cin >> x;
         v.push_back(x);
+
     }
     for (int i = r; i < n; i++)
     {
