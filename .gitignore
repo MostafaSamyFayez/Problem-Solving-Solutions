@@ -1,0 +1,15 @@
+# Build output
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.out
+a.out
+x64/
+Debug/
+Release/
+
+# Editors / IDEs
+.vs/
+.vscode/
+*.user
