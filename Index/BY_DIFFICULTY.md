@@ -5,7 +5,7 @@
 Numbers are Codeforces-style ratings; Easy/Medium/Hard come from LeetCode or your own header.
 
 - [Easy](#easy) (2)
-- [Medium](#medium) (1)
+- [Medium](#medium) (2)
 - [Unrated](#unrated) (1)
 
 ## Easy
@@ -20,6 +20,7 @@ Numbers are Codeforces-style ratings; Easy/Medium/Hard come from LeetCode or you
 | Problem | Platform | Difficulty | Topics | Solution | Solved |
 |---|---|---|---|---|---|
 | [Balanced Brackets](https://www.hackerrank.com/contests/master/challenges/balanced-brackets/problem) | HackerRank | Medium | stack | [Balanced_Brackets.cpp](../HackerRank/Balanced_Brackets.cpp) | 2026-11-25 |
+| [Ada and Queue](https://www.spoj.com/problems/ADAQUEUE/en/) | SPOJ | Medium | queue | [ADAQUEUE_Ada_and_Queue.cpp](../SPOJ/ADAQUEUE_Ada_and_Queue.cpp) | 2026-11-25 |
 
 ## Unrated
 

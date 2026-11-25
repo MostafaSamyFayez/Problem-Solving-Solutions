@@ -46,16 +46,16 @@ section below and the indexes, then commits and pushes.
 <!-- CPSAVER:STATS:START -->
 ## Progress
 
-**4** problems solved  (last updated 2026-11-25)
+**5** problems solved  (last updated 2026-11-25)
 
 Browse: [by platform](Index/BY_PLATFORM.md) | [by topic](Index/BY_TOPIC.md) | [by difficulty](Index/BY_DIFFICULTY.md)
 
 | Platform | Solved |
 |---|---|
-| SPOJ | 2 |
+| SPOJ | 3 |
 | HackerRank | 2 |
 
-**Top topics:** stack (2) · queue (1) · stl (1)
+**Top topics:** queue (2) · stack (2) · stl (1)
 
 ### Recently solved
 
@@ -63,6 +63,7 @@ Browse: [by platform](Index/BY_PLATFORM.md) | [by topic](Index/BY_TOPIC.md) | [b
 |---|---|---|---|---|---|
 | [Easy Stack](https://www.spoj.com/problems/STACKEZ/en/) | SPOJ | Easy | stack | [STACKEZ_Easy_Stack.cpp](SPOJ/STACKEZ_Easy_Stack.cpp) | 2026-11-25 |
 | [Easy Queue](https://www.spoj.com/problems/QUEUEEZ/en/) | SPOJ | Easy | queue | [QUEUEEZ_Easy_Queue.cpp](SPOJ/QUEUEEZ_Easy_Queue.cpp) | 2026-11-25 |
+| [Ada and Queue](https://www.spoj.com/problems/ADAQUEUE/en/) | SPOJ | Medium | queue | [ADAQUEUE_Ada_and_Queue.cpp](SPOJ/ADAQUEUE_Ada_and_Queue.cpp) | 2026-11-25 |
 | [Balanced Brackets](https://www.hackerrank.com/contests/master/challenges/balanced-brackets/problem) | HackerRank | Medium | stack | [Balanced_Brackets.cpp](HackerRank/Balanced_Brackets.cpp) | 2026-11-25 |
 | [Left Rotation](https://www.hackerrank.com/contests/rait-a-thon/challenges/array-left-rotation/problem) | HackerRank |  | stl | [Left_Rotation.cpp](HackerRank/Left_Rotation.cpp) | 2026-11-23 |
 <!-- CPSAVER:STATS:END -->
