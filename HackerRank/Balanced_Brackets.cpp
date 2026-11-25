@@ -5,7 +5,6 @@
  * Difficulty: Medium
  * Topics: stack
  * Date Solved: 2026-11-25
- * Starred: yes
  * Notes: can also be submitted on https://vjudge.net/problem/HackerRank-balanced-brackets
  */
 

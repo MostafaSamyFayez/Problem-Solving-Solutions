@@ -10,7 +10,7 @@
 | # | Problem | Platform | Difficulty | Level | Topics | Solution | Solved |
 |---|---|---|---|---|---|---|---|
 | 1 | ★ [Left Rotation](https://www.hackerrank.com/contests/rait-a-thon/challenges/array-left-rotation/problem) | HackerRank | Easy | Easy | stl | [Left_Rotation.cpp](../HackerRank/Left_Rotation.cpp) | 2026-11-23 |
-| 2 | ★ [Balanced Brackets](https://www.hackerrank.com/contests/master/challenges/balanced-brackets/problem) | HackerRank | Medium | Medium | stack | [Balanced_Brackets.cpp](../HackerRank/Balanced_Brackets.cpp) | 2026-11-25 |
+| 2 | [Balanced Brackets](https://www.hackerrank.com/contests/master/challenges/balanced-brackets/problem) | HackerRank | Medium | Medium | stack | [Balanced_Brackets.cpp](../HackerRank/Balanced_Brackets.cpp) | 2026-11-25 |
 
 ## SPOJ
 
