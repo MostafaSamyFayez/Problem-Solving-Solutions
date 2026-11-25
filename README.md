@@ -65,5 +65,5 @@ Browse: [by platform](Index/BY_PLATFORM.md) | [by topic](Index/BY_TOPIC.md) | [b
 | [Easy Queue](https://www.spoj.com/problems/QUEUEEZ/en/) | SPOJ | Easy | queue | [QUEUEEZ_Easy_Queue.cpp](SPOJ/QUEUEEZ_Easy_Queue.cpp) | 2026-11-25 |
 | [Ada and Queue](https://www.spoj.com/problems/ADAQUEUE/en/) | SPOJ | Medium | queue | [ADAQUEUE_Ada_and_Queue.cpp](SPOJ/ADAQUEUE_Ada_and_Queue.cpp) | 2026-11-25 |
 | [Balanced Brackets](https://www.hackerrank.com/contests/master/challenges/balanced-brackets/problem) | HackerRank | Medium | stack | [Balanced_Brackets.cpp](HackerRank/Balanced_Brackets.cpp) | 2026-11-25 |
-| [Left Rotation](https://www.hackerrank.com/contests/rait-a-thon/challenges/array-left-rotation/problem) | HackerRank |  | stl | [Left_Rotation.cpp](HackerRank/Left_Rotation.cpp) | 2026-11-23 |
+| [Left Rotation](https://www.hackerrank.com/contests/rait-a-thon/challenges/array-left-rotation/problem) | HackerRank | Easy | stl | [Left_Rotation.cpp](HackerRank/Left_Rotation.cpp) | 2026-11-23 |
 <!-- CPSAVER:STATS:END -->
