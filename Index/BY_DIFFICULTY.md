@@ -13,7 +13,7 @@ Level: Easy / Medium / Hard from LeetCode, your header, or the rating (under 120
 |---|---|---|---|---|---|---|---|
 | 1 | ★ [Left Rotation](https://www.hackerrank.com/contests/rait-a-thon/challenges/array-left-rotation/problem) | HackerRank | Easy | Easy | stl | [Left_Rotation.cpp](../HackerRank/Left_Rotation.cpp) | 2026-11-23 |
 | 4 | ★ [Easy Queue](https://www.spoj.com/problems/QUEUEEZ/en/) | SPOJ | Easy | Easy | queue | [QUEUEEZ_Easy_Queue.cpp](../SPOJ/QUEUEEZ_Easy_Queue.cpp) | 2026-11-25 |
-| 5 | [Easy Stack](https://www.spoj.com/problems/STACKEZ/en/) | SPOJ | Easy | Easy | stack | [STACKEZ_Easy_Stack.cpp](../SPOJ/STACKEZ_Easy_Stack.cpp) | 2026-11-25 |
+| 5 | ★ [Easy Stack](https://www.spoj.com/problems/STACKEZ/en/) | SPOJ | Easy | Easy | stack | [STACKEZ_Easy_Stack.cpp](../SPOJ/STACKEZ_Easy_Stack.cpp) | 2026-11-25 |
 
 ## Medium
 
