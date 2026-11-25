@@ -3,7 +3,7 @@
  * Problem Link: https://www.hackerrank.com/contests/master/challenges/balanced-brackets/problem
  * Platform: HackerRank
  * Difficulty: Medium
- * Topics: Queue
+ * Topics: stack
  * Date Solved: 2026-11-25
  * Notes: can also be submitted on https://vjudge.net/problem/HackerRank-balanced-brackets
  */
