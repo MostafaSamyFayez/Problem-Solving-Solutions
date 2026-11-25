@@ -7,7 +7,7 @@
  * Level: Easy
  * Topics: brute force, constructive algorithms, implementation
  * Date Solved: 2026-11-25
- * Notes:
+ * Notes: tricky problem
  */
 
 #include <iostream>
@@ -33,18 +33,18 @@ int main() {
     }
     neg.push_back(temp_neg.back());
     temp_neg.pop_back();
-    if ((temp_neg.size() % 2)&&(temp_neg.size()>0))
+    if ((temp_neg.size() % 2) && (temp_neg.size() > 0))
     {
         zero.push_back(temp_neg.back());
         temp_neg.pop_back();
     }
-    for (auto a :temp_neg)pos.push_back(a);
+    for (auto a : temp_neg)pos.push_back(a);
     // result
     cout << neg.size() << " ";
-    for (auto a : neg)cout <<a << " ";
-    cout<<endl << pos.size() << " ";
+    for (auto a : neg)cout << a << " ";
+    cout << endl << pos.size() << " ";
     for (auto a : pos)cout << a << " ";
-    cout<<endl << zero.size() << " ";
+    cout << endl << zero.size() << " ";
     for (auto a : zero)cout << a << " ";
     return 0;
 }
