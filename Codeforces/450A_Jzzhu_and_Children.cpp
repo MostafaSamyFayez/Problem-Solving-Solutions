@@ -29,7 +29,7 @@ int main() {
         int a;
         cin >> a;
         dq.push_back(a);
-        order.push_back(x++);
+        order.push_back(x++);;;
     }
     while (!order.empty()) 
     {
