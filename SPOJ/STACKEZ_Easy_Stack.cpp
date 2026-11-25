@@ -6,7 +6,6 @@
  * Difficulty: Easy
  * Topics: Stack
  * Date Solved: 2026-11-25
- * Starred: yes
  * Notes:
  */
 

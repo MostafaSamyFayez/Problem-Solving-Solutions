@@ -17,7 +17,7 @@
 
 | # | Problem | Platform | Difficulty | Level | Topics | Solution | Solved |
 |---|---|---|---|---|---|---|---|
-| 5 | ★ [Easy Stack](https://www.spoj.com/problems/STACKEZ/en/) | SPOJ | Easy | Easy | stack | [STACKEZ_Easy_Stack.cpp](../SPOJ/STACKEZ_Easy_Stack.cpp) | 2026-11-25 |
+| 5 | [Easy Stack](https://www.spoj.com/problems/STACKEZ/en/) | SPOJ | Easy | Easy | stack | [STACKEZ_Easy_Stack.cpp](../SPOJ/STACKEZ_Easy_Stack.cpp) | 2026-11-25 |
 | 2 | ★ [Balanced Brackets](https://www.hackerrank.com/contests/master/challenges/balanced-brackets/problem) | HackerRank | Medium | Medium | stack | [Balanced_Brackets.cpp](../HackerRank/Balanced_Brackets.cpp) | 2026-11-25 |
 
 ## stl
