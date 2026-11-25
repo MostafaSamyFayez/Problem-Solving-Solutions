@@ -15,7 +15,6 @@
 #include <string>
 #include <algorithm>
 #include <deque>
-
 using namespace std;
 
 int main() {
@@ -24,8 +23,7 @@ int main() {
     int n, m, result=0, x = 1;
     deque<int>dq;
     deque<int>order;
-    cin >> n >> m;;
-
+    cin >> n >> m;
     while (n--)
     {
         int a;
