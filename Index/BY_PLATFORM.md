@@ -16,6 +16,6 @@
 
 | # | Problem | Platform | Difficulty | Level | Topics | Solution | Solved |
 |---|---|---|---|---|---|---|---|
-| 4 | [Easy Queue](https://www.spoj.com/problems/QUEUEEZ/en/) | SPOJ | Easy | Easy | queue | [QUEUEEZ_Easy_Queue.cpp](../SPOJ/QUEUEEZ_Easy_Queue.cpp) | 2026-11-25 |
+| 4 | ★ [Easy Queue](https://www.spoj.com/problems/QUEUEEZ/en/) | SPOJ | Easy | Easy | queue | [QUEUEEZ_Easy_Queue.cpp](../SPOJ/QUEUEEZ_Easy_Queue.cpp) | 2026-11-25 |
 | 5 | [Easy Stack](https://www.spoj.com/problems/STACKEZ/en/) | SPOJ | Easy | Easy | stack | [STACKEZ_Easy_Stack.cpp](../SPOJ/STACKEZ_Easy_Stack.cpp) | 2026-11-25 |
 | 3 | [Ada and Queue](https://www.spoj.com/problems/ADAQUEUE/en/) | SPOJ | Medium | Medium | queue | [ADAQUEUE_Ada_and_Queue.cpp](../SPOJ/ADAQUEUE_Ada_and_Queue.cpp) | 2026-11-25 |
