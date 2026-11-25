@@ -46,19 +46,21 @@ section below and the indexes, then commits and pushes.
 <!-- CPSAVER:STATS:START -->
 ## Progress
 
-**1** problems solved  (last updated 2026-11-23)
+**2** problems solved  (last updated 2026-11-25)
 
 Browse: [by platform](Index/BY_PLATFORM.md) | [by topic](Index/BY_TOPIC.md) | [by difficulty](Index/BY_DIFFICULTY.md)
 
 | Platform | Solved |
 |---|---|
+| SPOJ | 1 |
 | HackerRank | 1 |
 
-**Top topics:** stl (1)
+**Top topics:** stack (1) · stl (1)
 
 ### Recently solved
 
 | Problem | Platform | Difficulty | Topics | Solution | Solved |
 |---|---|---|---|---|---|
+| [Easy Stack](https://www.spoj.com/problems/STACKEZ/en/) | SPOJ | Easy | stack | [STACKEZ_Easy_Stack.cpp](SPOJ/STACKEZ_Easy_Stack.cpp) | 2026-11-25 |
 | [Left Rotation](https://www.hackerrank.com/contests/rait-a-thon/challenges/array-left-rotation/problem) | HackerRank |  | stl | [Left_Rotation.cpp](HackerRank/Left_Rotation.cpp) | 2026-11-23 |
 <!-- CPSAVER:STATS:END -->

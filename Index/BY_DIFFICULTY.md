@@ -4,7 +4,14 @@
 
 Numbers are Codeforces-style ratings; Easy/Medium/Hard come from LeetCode or your own header.
 
+- [Easy](#easy) (1)
 - [Unrated](#unrated) (1)
+
+## Easy
+
+| Problem | Platform | Difficulty | Topics | Solution | Solved |
+|---|---|---|---|---|---|
+| [Easy Stack](https://www.spoj.com/problems/STACKEZ/en/) | SPOJ | Easy | stack | [STACKEZ_Easy_Stack.cpp](../SPOJ/STACKEZ_Easy_Stack.cpp) | 2026-11-25 |
 
 ## Unrated
 
