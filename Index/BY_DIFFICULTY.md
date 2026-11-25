@@ -20,4 +20,4 @@ Level: Easy / Medium / Hard from LeetCode, your header, or the rating (under 120
 | # | Problem | Platform | Difficulty | Level | Topics | Solution | Solved |
 |---|---|---|---|---|---|---|---|
 | 2 | [Balanced Brackets](https://www.hackerrank.com/contests/master/challenges/balanced-brackets/problem) | HackerRank | Medium | Medium | stack | [Balanced_Brackets.cpp](../HackerRank/Balanced_Brackets.cpp) | 2026-11-25 |
-| 3 | [Ada and Queue](https://www.spoj.com/problems/ADAQUEUE/en/) | SPOJ | Medium | Medium | queue | [ADAQUEUE_Ada_and_Queue.cpp](../SPOJ/ADAQUEUE_Ada_and_Queue.cpp) | 2026-11-25 |
+| 3 | ★ [Ada and Queue](https://www.spoj.com/problems/ADAQUEUE/en/) | SPOJ | Medium | Medium | queue | [ADAQUEUE_Ada_and_Queue.cpp](../SPOJ/ADAQUEUE_Ada_and_Queue.cpp) | 2026-11-25 |
