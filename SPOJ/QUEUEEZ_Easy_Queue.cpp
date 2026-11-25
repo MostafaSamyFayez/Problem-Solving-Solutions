@@ -6,7 +6,6 @@
  * Difficulty: Easy
  * Topics: Queue
  * Date Solved: 2026-11-25
- * Starred: yes
  * Notes:
  */
 
