@@ -23,13 +23,13 @@ int main() {
     int n, m, result=0, x = 1;
     deque<int>dq;
     deque<int>order;
-    cin >> n >> m;;;;
+    cin >> n >> m;
     while (n--)
     {
         int a;
         cin >> a;
         dq.push_back(a);
-        order.push_back(x++);;;
+        order.push_back(x++);
     }
     while (!order.empty()) 
     {
@@ -44,7 +44,7 @@ int main() {
         {
             result = order.front();
             dq.pop_front();
-            order.pop_front();;
+            order.pop_front();
 
         }
     }
