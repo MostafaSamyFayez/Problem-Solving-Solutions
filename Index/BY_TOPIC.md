@@ -4,10 +4,10 @@
 
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [queue](#queue) (2)
 - [stack](#stack) (2)
-- [stl](#stl) (1)
+- [stl](#stl) (2)
 
 ## brute force
 
@@ -25,24 +25,26 @@
 
 | # | Problem | Platform | Difficulty | Level | Topics | Solution | Solved |
 |---|---|---|---|---|---|---|---|
+| 3 | [Jzzhu and Children](https://codeforces.com/problemset/problem/450/A) | Codeforces | 1000 | Easy | stl, implementation | [450A_Jzzhu_and_Children.cpp](../Codeforces/450A_Jzzhu_and_Children.cpp) | 2026-11-25 |
 | 2 | [Array](https://codeforces.com/problemset/problem/300/A) | Codeforces | 1100 | Easy | brute force, constructive algorithms, implementation | [300A_Array.cpp](../Codeforces/300A_Array.cpp) | 2026-11-25 |
 
 ## queue
 
 | # | Problem | Platform | Difficulty | Level | Topics | Solution | Solved |
 |---|---|---|---|---|---|---|---|
-| 5 | [Easy Queue](https://www.spoj.com/problems/QUEUEEZ/en/) | SPOJ | Easy | Easy | queue | [QUEUEEZ_Easy_Queue.cpp](../SPOJ/QUEUEEZ_Easy_Queue.cpp) | 2026-11-25 |
-| 4 | ★ [Ada and Queue](https://www.spoj.com/problems/ADAQUEUE/en/) | SPOJ | Medium | Medium | queue | [ADAQUEUE_Ada_and_Queue.cpp](../SPOJ/ADAQUEUE_Ada_and_Queue.cpp) | 2026-11-25 |
+| 6 | [Easy Queue](https://www.spoj.com/problems/QUEUEEZ/en/) | SPOJ | Easy | Easy | queue | [QUEUEEZ_Easy_Queue.cpp](../SPOJ/QUEUEEZ_Easy_Queue.cpp) | 2026-11-25 |
+| 5 | ★ [Ada and Queue](https://www.spoj.com/problems/ADAQUEUE/en/) | SPOJ | Medium | Medium | queue | [ADAQUEUE_Ada_and_Queue.cpp](../SPOJ/ADAQUEUE_Ada_and_Queue.cpp) | 2026-11-25 |
 
 ## stack
 
 | # | Problem | Platform | Difficulty | Level | Topics | Solution | Solved |
 |---|---|---|---|---|---|---|---|
-| 6 | [Easy Stack](https://www.spoj.com/problems/STACKEZ/en/) | SPOJ | Easy | Easy | stack | [STACKEZ_Easy_Stack.cpp](../SPOJ/STACKEZ_Easy_Stack.cpp) | 2026-11-25 |
-| 3 | ★ [Balanced Brackets](https://www.hackerrank.com/contests/master/challenges/balanced-brackets/problem) | HackerRank | Medium | Medium | stack | [Balanced_Brackets.cpp](../HackerRank/Balanced_Brackets.cpp) | 2026-11-25 |
+| 7 | [Easy Stack](https://www.spoj.com/problems/STACKEZ/en/) | SPOJ | Easy | Easy | stack | [STACKEZ_Easy_Stack.cpp](../SPOJ/STACKEZ_Easy_Stack.cpp) | 2026-11-25 |
+| 4 | ★ [Balanced Brackets](https://www.hackerrank.com/contests/master/challenges/balanced-brackets/problem) | HackerRank | Medium | Medium | stack | [Balanced_Brackets.cpp](../HackerRank/Balanced_Brackets.cpp) | 2026-11-25 |
 
 ## stl
 
 | # | Problem | Platform | Difficulty | Level | Topics | Solution | Solved |
 |---|---|---|---|---|---|---|---|
 | 1 | [Left Rotation](https://www.hackerrank.com/contests/rait-a-thon/challenges/array-left-rotation/problem) | HackerRank | Easy | Easy | stl | [Left_Rotation.cpp](../HackerRank/Left_Rotation.cpp) | 2026-11-23 |
+| 3 | [Jzzhu and Children](https://codeforces.com/problemset/problem/450/A) | Codeforces | 1000 | Easy | stl, implementation | [450A_Jzzhu_and_Children.cpp](../Codeforces/450A_Jzzhu_and_Children.cpp) | 2026-11-25 |
