@@ -6,7 +6,6 @@
  * Difficulty: Medium
  * Topics: queue
  * Date Solved: 2026-11-25
- * Starred: yes
  * Notes: good trick using 2 vectors to mask the reverse input with index 0,1
  */
 
