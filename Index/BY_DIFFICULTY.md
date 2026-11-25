@@ -5,6 +5,7 @@
 Numbers are Codeforces-style ratings; Easy/Medium/Hard come from LeetCode or your own header.
 
 - [Easy](#easy) (2)
+- [Medium](#medium) (1)
 - [Unrated](#unrated) (1)
 
 ## Easy
@@ -13,6 +14,12 @@ Numbers are Codeforces-style ratings; Easy/Medium/Hard come from LeetCode or you
 |---|---|---|---|---|---|
 | [Easy Queue](https://www.spoj.com/problems/QUEUEEZ/en/) | SPOJ | Easy | queue | [QUEUEEZ_Easy_Queue.cpp](../SPOJ/QUEUEEZ_Easy_Queue.cpp) | 2026-11-25 |
 | [Easy Stack](https://www.spoj.com/problems/STACKEZ/en/) | SPOJ | Easy | stack | [STACKEZ_Easy_Stack.cpp](../SPOJ/STACKEZ_Easy_Stack.cpp) | 2026-11-25 |
+
+## Medium
+
+| Problem | Platform | Difficulty | Topics | Solution | Solved |
+|---|---|---|---|---|---|
+| [Balanced Brackets](https://www.hackerrank.com/contests/master/challenges/balanced-brackets/problem) | HackerRank | Medium | queue | [Balanced_Brackets.cpp](../HackerRank/Balanced_Brackets.cpp) | 2026-11-25 |
 
 ## Unrated
 
