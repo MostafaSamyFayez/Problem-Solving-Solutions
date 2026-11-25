@@ -44,7 +44,7 @@ int main() {
         {
             result = order.front();
             dq.pop_front();
-            order.pop_front();
+            order.pop_front();;
 
         }
     }
