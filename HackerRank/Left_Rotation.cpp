@@ -5,7 +5,6 @@
  * Difficulty: Easy
  * Topics: Stl
  * Date Solved: 2026-11-23
- * Starred: yes
  * Notes: submited on vjudge
  */
 
