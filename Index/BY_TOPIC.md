@@ -24,4 +24,4 @@
 
 | # | Problem | Platform | Difficulty | Level | Topics | Solution | Solved |
 |---|---|---|---|---|---|---|---|
-| 1 | [Left Rotation](https://www.hackerrank.com/contests/rait-a-thon/challenges/array-left-rotation/problem) | HackerRank | Easy | Easy | stl | [Left_Rotation.cpp](../HackerRank/Left_Rotation.cpp) | 2026-11-23 |
+| 1 | ★ [Left Rotation](https://www.hackerrank.com/contests/rait-a-thon/challenges/array-left-rotation/problem) | HackerRank | Easy | Easy | stl | [Left_Rotation.cpp](../HackerRank/Left_Rotation.cpp) | 2026-11-23 |
